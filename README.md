@@ -2,9 +2,9 @@
 
 🎓 I'm a Computer Science student at the American University in Baghdad with a passion for coding, creativity, and building useful and fun things. From database systems to 2D games, I love solving real problems with code.
 
+🎮 Play my games: [muhammedlubab.itch.io](https://muhammedlubab.itch.io)
+
 ---
-
-
 ### 🔭 I’m currently working on
 - 2D game prototypes (Godot, GDScript)  
 - Improving my design workflow (Canva, Photoshop)
