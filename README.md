@@ -4,24 +4,19 @@
 
 ---
 
+
 ### 🔭 I’m currently working on
-- New game prototypes using Godot and GDScript
-- Sharpening my UI/UX design skills with Canva and Photoshop
+- 2D game prototypes (Godot, GDScript)  
+- Improving my design workflow (Canva, Photoshop)
 
 ### 🌱 I’m currently learning
-- JavaScript frameworks (React basics)
-- Advanced SQL & database optimization
-- Game physics and animations in Godot
+- React fundamentals & front-end development  
+- Advanced SQL optimization  
+- Game physics and UI polish in Godot
 
 ### 👯 I’m looking to collaborate on
-- Small indie games (Godot or Unity)
-- Backend/database-focused projects
-- Exploring how to connect front-end to back-end APIs
-
-
-### 🤔 I’m looking for help with
-- Best practices for structuring game projects
-- Portfolio building & publishing games online
+- Indie game projects (Godot or Unity)  
+- Front-end apps or database-driven tools
 
 ### 💬 Ask me about
 - How we built a full student management system in C#
