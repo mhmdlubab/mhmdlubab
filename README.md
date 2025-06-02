@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Muhammed Lubab!
+## Hello, I'm Muhammed Lubab!
 
 🎓 I'm a Computer Science student at the American University in Baghdad with a passion for coding, creativity, and building useful and fun things. From database systems to 2D games, I love solving real problems with code.
 
